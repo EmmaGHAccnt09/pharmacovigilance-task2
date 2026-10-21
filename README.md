@@ -101,7 +101,7 @@ This repository demonstrates the end-to-end workflow for receiving, evaluating, 
 | **1. Name & Professional Title** | **Emmalyn Chua Mondano-Mariquit, RPh** |
 | **2. Occupation / Designation** | Registered Pharmacist / Healthcare Virtual Assistant Intern |
 | **3. Healthcare Institution / Facility** | Community Pharmacy Practice / VirtualWorks Lab |
-| **4. Contact Email** | `emmalyn.mondano@example.com` |
+| **4. Contact Email** | `emmalyn.mariquit1276@gmail.com` |
 | **5. Treatment Given for Reaction** | Amoxicillin stopped immediately; administered symptomatic treatment with oral antihistaminics. |
 | **6. Date of Report Submission** | **21 / 10 / 2026** |
 
