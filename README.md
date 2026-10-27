@@ -134,3 +134,7 @@ This repository demonstrates the end-to-end workflow for receiving, evaluating, 
 
 > **Narrative:**  
 > Ramesh Patel, a 32-year-old male weighing 65 kg with no prior history of allergies or chronic disease, was prescribed oral Tablet Amoxicillin 500 mg TID on March 1, 2026, for acute bacterial sinusitis. On March 3, 2026 (Day 3 of therapy), the patient developed generalized itching and skin rashes over his chest. Amoxicillin was immediately discontinued on the same day, and symptomatic treatment with oral antihistaminics was initiated. The rash and itching abated progressively, resulting in complete recovery by March 6, 2026. A formal causality assessment using the Naranjo Algorithm yielded a score of **+7 (Probable)**, confirming a drug-induced hypersensitivity reaction.
+
+Portfolio Disclosure
+This repository contains my own work, completed as part of my pharmacovigilance learning activities. The exercise demonstrates my understanding of the assigned topic and my ability to research, analyze, and document relevant information.
+This is an educational exercise and does not represent actual patient-care activities or professional employment. Any case examples are for learning purposes only.
